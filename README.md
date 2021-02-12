@@ -3,6 +3,7 @@
 A new Flutter application.
 
 # Menifest.Json instructions for PWA
+```
 "name": "THIS NAME SHOW ON SPLASH SCREEN",
     "short_name": "this is the launcher icon name",
     "start_url": ".",
@@ -24,6 +25,7 @@ A new Flutter application.
             "type": "image/png"
         }
     ]
+```
 ## Getting Started
 
 This project is a starting point for a Flutter application.
