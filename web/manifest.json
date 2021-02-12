@@ -1,0 +1,23 @@
+{
+    "name": "flutter_netflix_clone",
+    "short_name": "netflix_clone",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "Flutter Netflix Web Clone",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/netflix_logo0.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/netflix_logo1.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
