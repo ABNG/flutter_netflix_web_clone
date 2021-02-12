@@ -2,6 +2,28 @@
 
 A new Flutter application.
 
+# Menifest.Json instructions for PWA
+"name": "THIS NAME SHOW ON SPLASH SCREEN",
+    "short_name": "this is the launcher icon name",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000",
+    "description": "Flutter Netflix Web Clone",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "this is launcher icon",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "this is splash screen icon come that in center",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
 ## Getting Started
 
 This project is a starting point for a Flutter application.
